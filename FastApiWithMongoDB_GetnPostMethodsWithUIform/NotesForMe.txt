@@ -1,0 +1,8 @@
+
+INFO: Here we are taking data from form and saving it into DB
+
+
+--> GET : For getting data i have Schema as well
+
+--> POST : Didn't used Schema. I have Used form() to get body from UI by insatlling package python-multiline 
+
