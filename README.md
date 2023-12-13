@@ -1,8 +1,5 @@
 # FastApiLearningWithMongoDB
 
-![FastAPI official Img](./ImpSS/FastAPI_SS-Doc.png)
-
-
 ### Some important points related to request body :
 ```python
 from typing import Optional
